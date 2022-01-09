@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DnDCharacterManager", "DnDCharacterManager\DnDCharacterManager.csproj", "{4B92F324-1563-4557-8118-4E5FBE1CADDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDCharacterManager.Tests", "DnDCharacterManager.Tests\DnDCharacterManager.Tests.csproj", "{0CDA804F-A84A-45AD-AE4B-DAB14BF7B74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B92F324-1563-4557-8118-4E5FBE1CADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B92F324-1563-4557-8118-4E5FBE1CADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B92F324-1563-4557-8118-4E5FBE1CADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B92F324-1563-4557-8118-4E5FBE1CADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDA804F-A84A-45AD-AE4B-DAB14BF7B74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDA804F-A84A-45AD-AE4B-DAB14BF7B74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDA804F-A84A-45AD-AE4B-DAB14BF7B74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDA804F-A84A-45AD-AE4B-DAB14BF7B74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61348B6-FC7D-4331-95AA-383D15DBD39E}
+	EndGlobalSection
+EndGlobal
